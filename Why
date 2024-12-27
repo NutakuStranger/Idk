@@ -1,0 +1,5 @@
+if game.Players.LocalPlayer.Name == "rip_luffy20586" and game.Players.LocalPlayer.Character.Name == "rip_luffy20586" then
+return true
+else
+return false
+end
