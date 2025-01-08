@@ -1,4 +1,4 @@
-if game.Players.LocalPlayer.Name == "rip_luffy20586" and game.Players.LocalPlayer.Character.Name == "rip_luffy20586" then
+if (game.Players.LocalPlayer.Name == "rip_luffy20586" and game.Players.LocalPlayer.Character.Name == "rip_luffy20586") or (game.Players.LocalPlayer.Name == "testahh1234" and game.Players.LocalPlayer.Character.Name == "testahh1234") then
 return true
 else
 return false
