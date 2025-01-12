@@ -1,4 +1,4 @@
-if (game.Players.LocalPlayer.Name == "rip_luffy20586" and game.Players.LocalPlayer.Character.Name == "rip_luffy20586") or (game.Players.LocalPlayer.Name == "jsbeingaBanger" and game.Players.LocalPlayer.Character.Name == "jsbeingaBanger") or (game.Players.LocalPlayer.Name == "testahh1234" and game.Players.LocalPlayer.Character.Name == "testahh1234") or (game.Players.LocalPlayer.Name == "slaroxy" and game.Players.LocalPlayer.Character.Name == "slaroxy") then
+if (game.Players.LocalPlayer.Name == "rip_luffy20586" and game.Players.LocalPlayer.Character.Name == "rip_luffy20586") or (game.Players.LocalPlayer.Name == "jsbeingaBanger" and game.Players.LocalPlayer.Character.Name == "jsbeingaBanger") or (game.Players.LocalPlayer.Name == "BestSCrpter24" and game.Players.LocalPlayer.Character.Name == "BestSCrpter24") or (game.Players.LocalPlayer.Name == "testahh1234" and game.Players.LocalPlayer.Character.Name == "testahh1234") or (game.Players.LocalPlayer.Name == "slaroxy" and game.Players.LocalPlayer.Character.Name == "slaroxy") then
 return true
 else
 return false
